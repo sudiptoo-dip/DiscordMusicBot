@@ -1,0 +1,20 @@
+{
+  "name": "discord-modular-selfbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "@google/genai": "^1.29.0",
+    "axios": "^1.6.0",
+    "debug": "^4.3.4",
+    "discord.js-selfbot-v13": "^3.7.1",
+    "dotenv": "^16.5.0",
+    "js-yaml": "^4.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

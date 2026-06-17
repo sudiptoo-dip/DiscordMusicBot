@@ -1,0 +1,32 @@
+default:
+  application_id: '1491636727763304548'
+  type: 0
+  name: Endless Loop
+  details: 'Executing: silence.exe'
+  state: Waiting for a response...
+  largeImageKey: '17757046709781'
+  largeImageText: Core.Memory Corruption
+  smallImageUrl: 590203-blackverified
+  smallImageText: Phantom.exe
+  url: https://www.youtube.com/@nexoscreator
+  buttons:
+    - name: '!Application.Details!'
+      url: https://guns.lol/phantom.exe
+  custom_status: Disconnected but still here.
+  custom_emoji: 🌑
+'1489462517993439316':
+  application_id: '1491636727763304548'
+  type: 0
+  name: Chizuka The GodFather
+  details: se amake hate kore.
+  state: ami server leave nibo.
+  largeImageKey: '17757046709781'
+  largeImageText: Core.Memory Corruption
+  smallImageUrl: 590203-blackverified
+  smallImageText: Phantom.exe
+  url: https://www.youtube.com/@nexoscreator
+  buttons:
+    - name: '!Application.Details!'
+      url: https://guns.lol/phantom.exe
+  custom_status: Disconnected but still here.
+  custom_emoji: 🌑
